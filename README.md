@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer | MERN Stack | Backend & DevOps <br><br>Full Stack Developer with hands-on experience building MERN and Django-based applications.<br>I focus on designing secure REST APIs, implementing authentication, and building responsive UIs.<br>I enjoy working on real-world projects involving CI/CD, cloud deployment, and scalable systems.<br><br>🔭 Building production-ready full stack applications and improving CI/CD workflows<br><br>🌱 Advanced backend architecture, Docker-based deployments, and CI/CD automation<br><br>
+Full Stack Developer | MERN Stack | Backend & DevOps <br><br>Full Stack Developer with hands-on experience building MERN and Django-based applications.<br>I focus on designing secure REST APIs, implementing authentication, and building responsive UIs.<br>I enjoy working on real-world projects involving CI/CD, cloud deployment, and scalable systems.<br><br>🔭 Currently Building production-ready full stack applications and improving CI/CD workflows<br><br>🌱 Learning Advanced backend architecture, Docker-based deployments, and CI/CD automation<br><br>
 
 
 ## 🌐 Socials:
