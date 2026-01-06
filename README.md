@@ -15,10 +15,6 @@ Full Stack Developer | MERN Stack | Backend & DevOps <br><br>Full Stack Develope
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajunarayan&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajunarayan&layout=compact&theme=dark&hide_border=true" />
 </p>
 
